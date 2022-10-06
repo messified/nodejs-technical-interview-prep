@@ -1,0 +1,26 @@
+[
+    {
+        "color": "red",
+        "value": "#f00",
+        "price": "10.50",
+        "name": "Red Shirt"
+    },
+    {
+        "color": "green",
+        "value": "#0f0",
+        "price": "1.50",
+        "name": "Green Shirt"
+    },
+    {
+        "color": "blue",
+        "value": "#00f",
+        "price": "2.50",
+        "name": "Blue Shirt"
+    },
+    {
+        "color": "cyan",
+        "value": "#0ff",
+        "price": "5.50",
+        "name": "Cyan Shirt"
+    }
+]
